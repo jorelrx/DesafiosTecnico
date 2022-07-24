@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DVvK30Hhjn8FGmIhUaCqxCgf8Xc0PJ92Es+n9k4gGLGcBUjHVTwkKjqI0WCsJNgMK6XoDhBiMHLLPk7c988EAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jNull\\source\\repos\\DesafiosTecnico\\VendasComCashback\\DesafioTecnico\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jNull\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\jNull\\.nuget\\packages\\fluentvalidation\\11.1.0\\fluentvalidation.11.1.0.nupkg.sha512",
+    "C:\\Users\\jNull\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
